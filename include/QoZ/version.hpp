@@ -3,8 +3,8 @@
 // MODIFY version.hpp.in as needed
 //
 
-#ifndef QoZ_VERSION_HPP_QoZ
-#define QoZ_VERSION_HPP_QoZ
+#ifndef QoZ_VERSION_HPP
+#define QoZ_VERSION_HPP
 
 #define QoZ_NAME "QoZ"
 #define QoZ_VER  "2.0.0.0"
@@ -13,4 +13,4 @@
 #define QoZ_VER_PATCH 0
 #define QoZ_VER_TWEAK 0
 
-#endif //QoZ_VERSION_HPP_QoZ
+#endif //QoZ_VERSION_HPP

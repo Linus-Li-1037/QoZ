@@ -1,7 +1,7 @@
 
 
-#ifndef SZ_LOSSLESS_ZSTD_HPP
-#define SZ_LOSSLESS_ZSTD_HPP
+#ifndef SZ_LOSSLESS_ZSTD_HPP_QoZ
+#define SZ_LOSSLESS_ZSTD_HPP_QoZ
 
 #include "zstd.h"
 #include "QoZ/def.hpp"
@@ -52,4 +52,4 @@ namespace QoZ {
         int compression_level = 3;  //default setting of level is 3
     };
 }
-#endif //SZ_LOSSLESS_ZSTD_HPP
+#endif //SZ_LOSSLESS_ZSTD_HPP_QoZ

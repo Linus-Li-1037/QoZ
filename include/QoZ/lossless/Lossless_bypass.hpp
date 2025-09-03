@@ -1,6 +1,6 @@
 
-#ifndef SZ_LOSSLESS_BYPASS_HPP
-#define SZ_LOSSLESS_BYPASS_HPP
+#ifndef SZ_LOSSLESS_BYPASS_HPP_QoZ
+#define SZ_LOSSLESS_BYPASS_HPP_QoZ
 
 #include "zstd.h"
 #include "QoZ/def.hpp"
@@ -27,4 +27,4 @@ namespace QoZ {
         }
     };
 }
-#endif //SZ_LOSSLESS_BYPASS_HPP
+#endif //SZ_LOSSLESS_BYPASS_HPP_QoZ

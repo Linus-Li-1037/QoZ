@@ -1,5 +1,5 @@
-#ifndef _SZ_PREDICTOR_HPP
-#define _SZ_PREDICTOR_HPP
+#ifndef _SZ_PREDICTOR_HPP_QoZ
+#define _SZ_PREDICTOR_HPP_QoZ
 
 #include "QoZ/utils/Iterator.hpp"
 #include "QoZ/def.hpp"

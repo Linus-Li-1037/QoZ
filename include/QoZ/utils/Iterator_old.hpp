@@ -1,5 +1,5 @@
-#ifndef _SZ_ITERATOR_HPP
-#define _SZ_ITERATOR_HPP
+#ifndef _SZ_ITERATOR_HPP_QoZ
+#define _SZ_ITERATOR_HPP_QoZ
 
 #include <cassert>
 #include <cstddef>

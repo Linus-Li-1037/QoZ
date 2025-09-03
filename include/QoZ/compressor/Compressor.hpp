@@ -1,5 +1,5 @@
-#ifndef SZ_COMPRESSOR_HPP
-#define SZ_COMPRESSOR_HPP
+#ifndef SZ_COMPRESSOR_HPP_QoZ
+#define SZ_COMPRESSOR_HPP_QoZ
 
 #include "QoZ/def.hpp"
 #include "QoZ/utils/Config.hpp"

@@ -1,7 +1,7 @@
 
 
-#ifndef SZ_METRICS_HPP
-#define SZ_METRICS_HPP
+#ifndef SZ_METRICS_HPP_QoZ
+#define SZ_METRICS_HPP_QoZ
 #include<cmath>
 namespace QoZ {
     

@@ -1,5 +1,5 @@
-#ifndef _meta_def_hpp
-#define _meta_def_hpp
+#ifndef _meta_def_hpp_QoZ
+#define _meta_def_hpp_QoZ
 
 #include <cstdlib>
 #include <cstring>
@@ -114,4 +114,3 @@ namespace QoZMETA {
 
 }
 #endif
-

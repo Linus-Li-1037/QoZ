@@ -1,5 +1,5 @@
-#ifndef SZ3_SZ_HPP
-#define SZ3_SZ_HPP
+#ifndef SZ3_SZ_HPP_QoZ
+#define SZ3_SZ_HPP_QoZ
 
 
 #include "QoZ/api/impl/SZImpl.hpp"

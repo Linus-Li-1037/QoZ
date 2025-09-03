@@ -1,7 +1,7 @@
 
 
-#ifndef SZ_SAMPLE_HPP
-#define SZ_SAMPLE_HPP
+#ifndef SZ_SAMPLE_HPP_QoZ
+#define SZ_SAMPLE_HPP_QoZ
 
 #include "QoZ/utils/Interpolators.hpp"
 #include "QoZ/utils/CoeffRegression.hpp"

@@ -1,5 +1,5 @@
-#ifndef SZ3_SZFASTFRONTEND
-#define SZ3_SZFASTFRONTEND
+#ifndef SZ3_SZFASTFRONTEND_QoZ
+#define SZ3_SZFASTFRONTEND_QoZ
 
 /**
  * This module is the implementation of the prediction and quantization methods in SZ2.

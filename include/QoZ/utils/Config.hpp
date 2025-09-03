@@ -1,6 +1,6 @@
 
-#ifndef SZ_Config_HPP
-#define SZ_Config_HPP
+#ifndef SZ_Config_HPP_QoZ
+#define SZ_Config_HPP_QoZ
 
 #include <iostream>
 #include <vector>

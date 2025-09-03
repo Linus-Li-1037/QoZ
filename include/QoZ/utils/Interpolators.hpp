@@ -1,6 +1,6 @@
 
-#ifndef SZ_INTERPOLATORS_HPP
-#define SZ_INTERPOLATORS_HPP
+#ifndef SZ_INTERPOLATORS_HPP_QoZ
+#define SZ_INTERPOLATORS_HPP_QoZ
 namespace QoZ {
     template<class T>
     inline T interp_linear(T a, T b) {
@@ -218,4 +218,4 @@ namespace QoZ {
     */
 
 }
-#endif //SZ_INTERPOLATORS_HPP
+#endif //SZ_INTERPOLATORS_HPP_QoZ

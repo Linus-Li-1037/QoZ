@@ -1,5 +1,5 @@
-#ifndef _meta_lorenzo_hpp
-#define _meta_lorenzo_hpp
+#ifndef _meta_lorenzo_hpp_QoZ
+#define _meta_lorenzo_hpp_QoZ
 
 #include "QoZ/utils/MetaDef.hpp"
 

@@ -1,6 +1,6 @@
 
-#ifndef SZ_STATISTIC_HPP
-#define SZ_STATISTIC_HPP
+#ifndef SZ_STATISTIC_HPP_QoZ
+#define SZ_STATISTIC_HPP_QoZ
 
 #include "Config.hpp"
 

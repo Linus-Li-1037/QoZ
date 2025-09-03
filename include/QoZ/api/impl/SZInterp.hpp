@@ -1,5 +1,5 @@
-#ifndef SZ3_SZINTERP_HPP
-#define SZ3_SZINTERP_HPP
+#ifndef SZ3_SZINTERP_HPP_QoZ
+#define SZ3_SZINTERP_HPP_QoZ
 
 #include "QoZ/compressor/SZInterpolationCompressor.hpp"
 

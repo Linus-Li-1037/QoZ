@@ -1,5 +1,5 @@
-#ifndef SZ3_SZ_LORENZO_REG_HPP
-#define SZ3_SZ_LORENZO_REG_HPP
+#ifndef SZ3_SZ_LORENZO_REG_HPP_QoZ
+#define SZ3_SZ_LORENZO_REG_HPP_QoZ
 
 #include "QoZ/compressor/SZGeneralCompressor.hpp"
 #include "QoZ/frontend/SZFastFrontend.hpp"

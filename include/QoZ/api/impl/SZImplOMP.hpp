@@ -1,5 +1,5 @@
-#ifndef SZ3_IMPL_SZDISPATCHER_OMP_HPP
-#define SZ3_IMPL_SZDISPATCHER_OMP_HPP
+#ifndef SZ3_IMPL_SZDISPATCHER_OMP_HPP_QoZ
+#define SZ3_IMPL_SZDISPATCHER_OMP_HPP_QoZ
 
 #include "QoZ/api/impl/SZDispatcher.hpp"
 #include <cmath>
@@ -8,7 +8,6 @@
 #ifdef _OPENMP
 #include "omp.h"
 #endif 
-
 
 template<class T, QoZ::uint N>
 char *SZ_compress_OMP(QoZ::Config &conf, const T *data, size_t &outSize) {
@@ -103,8 +102,7 @@ char *SZ_compress_OMP(QoZ::Config &conf, const T *data, size_t &outSize) {
         outSize = buffer_pos - buffer + cmp_start_t[nThreads];
 //    timer.stop("OMP memcpy");
     std::cout << "Compressed size = " << outSize << std::endl;
-#endif
-    return (char *) buffer;
+#endif    return (char *) buffer;
     
 }
 
@@ -147,8 +145,7 @@ void SZ_decompress_OMP(const QoZ::Config &conf, char *cmpData, size_t cmpSize, T
 
         SZ_decompress_dispatcher<T, N>(conf_t[tid], cmpr_data_p + cmp_start_t[tid], cmp_size_t[tid], decData + lo * num_t_base);
     }
-#endif
-}
+#endif}
 
 
 #endif

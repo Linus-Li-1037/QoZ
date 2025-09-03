@@ -1,5 +1,5 @@
-#ifndef _SZ_INTERPOLATION_COMPRESSSOR_HPP
-#define _SZ_INTERPOLATION_COMPRESSSOR_HPP
+#ifndef _SZ_INTERPOLATION_COMPRESSSOR_HPP_QoZ
+#define _SZ_INTERPOLATION_COMPRESSSOR_HPP_QoZ
 #include "QoZ/compressor/Compressor.hpp"
 #include "QoZ/predictor/Predictor.hpp"
 #include "QoZ/predictor/LorenzoPredictor.hpp"
@@ -7288,4 +7288,3 @@ namespace QoZ {
 
 
 #endif
-

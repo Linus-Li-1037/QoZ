@@ -1,5 +1,5 @@
-#ifndef _SZ_RUNLENGTH_ENCODER_HPP
-#define _SZ_RUNLENGTH_ENCODER_HPP
+#ifndef _SZ_RUNLENGTH_ENCODER_HPP_QoZ
+#define _SZ_RUNLENGTH_ENCODER_HPP_QoZ
 
 #include "Encoder.hpp"
 #include "QoZ/utils/MemoryUtil.hpp"

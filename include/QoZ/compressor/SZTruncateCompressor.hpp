@@ -1,5 +1,5 @@
-#ifndef SZ_Truncate_COMPRESSOR_HPP
-#define SZ_Truncate_COMPRESSOR_HPP
+#ifndef SZ_Truncate_COMPRESSOR_HPP_QoZ
+#define SZ_Truncate_COMPRESSOR_HPP_QoZ
 
 #include "QoZ/compressor/Compressor.hpp"
 #include "QoZ/frontend/Frontend.hpp"

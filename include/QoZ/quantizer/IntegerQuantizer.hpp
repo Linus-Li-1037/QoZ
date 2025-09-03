@@ -1,5 +1,5 @@
-#ifndef _SZ_INTEGER_QUANTIZER_HPP
-#define _SZ_INTEGER_QUANTIZER_HPP
+#ifndef _SZ_INTEGER_QUANTIZER_HPP_QoZ
+#define _SZ_INTEGER_QUANTIZER_HPP_QoZ
 
 #include <cstring>
 #include <cassert>

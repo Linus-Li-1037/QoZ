@@ -1,5 +1,5 @@
-#ifndef _SZ_BLOCK_INTERPOLATION_COMPRESSOR_HPP
-#define _SZ_BLOCK_INTERPOLATION_COMPRESSOR_HPP
+#ifndef _SZ_BLOCK_INTERPOLATION_COMPRESSOR_HPP_QoZ
+#define _SZ_BLOCK_INTERPOLATION_COMPRESSOR_HPP_QoZ
 
 #include "QoZ/predictor/Predictor.hpp"
 #include "QoZ/quantizer/Quantizer.hpp"
@@ -516,4 +516,3 @@ namespace QoZ {
 
 
 #endif
-

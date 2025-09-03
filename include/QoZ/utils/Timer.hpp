@@ -1,6 +1,6 @@
 
-#ifndef SZ_TIMER_HPP
-#define SZ_TIMER_HPP
+#ifndef SZ_TIMER_HPP_QoZ
+#define SZ_TIMER_HPP_QoZ
 
 #include <ctime>
 #include <string>
@@ -41,4 +41,4 @@ namespace QoZ {
 };
 
 
-#endif //SZ_TIMER_HPP
+#endif //SZ_TIMER_HPP_QoZ

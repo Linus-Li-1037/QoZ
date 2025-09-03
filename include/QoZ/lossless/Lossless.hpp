@@ -1,6 +1,6 @@
 
-#ifndef SZ_LOSSLESS_HPP
-#define SZ_LOSSLESS_HPP
+#ifndef SZ_LOSSLESS_HPP_QoZ
+#define SZ_LOSSLESS_HPP_QoZ
 
 
 namespace QoZ {
@@ -19,4 +19,4 @@ namespace QoZ {
     }
 }
 
-#endif //SZ_LOSSLESS_HPP
+#endif //SZ_LOSSLESS_HPP_QoZ

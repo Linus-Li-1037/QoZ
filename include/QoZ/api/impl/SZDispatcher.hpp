@@ -1,5 +1,5 @@
-#ifndef SZ3_IMPL_SZDISPATCHER_HPP
-#define SZ3_IMPL_SZDISPATCHER_HPP
+#ifndef SZ3_IMPL_SZDISPATCHER_HPP_QoZ
+#define SZ3_IMPL_SZDISPATCHER_HPP_QoZ
 
 #include "QoZ/utils/MemoryUtil.hpp"
 #include "QoZ/utils/Statistic.hpp"

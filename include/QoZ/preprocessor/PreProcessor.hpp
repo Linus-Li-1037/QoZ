@@ -1,7 +1,7 @@
 
 
-#ifndef SZ_PREPROCESSOR_HPP
-#define SZ_PREPROCESSOR_HPP
+#ifndef SZ_PREPROCESSOR_HPP_QoZ
+#define SZ_PREPROCESSOR_HPP_QoZ
 
 #include "QoZ/def.hpp"
 
@@ -17,4 +17,4 @@ namespace QoZ {
     }
 }
 
-#endif //SZ_PREPROCESSOR_HPP
+#endif //SZ_PREPROCESSOR_HPP_QoZ

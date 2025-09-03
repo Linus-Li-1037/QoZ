@@ -1,7 +1,7 @@
 
 
-#ifndef SZ_MEMORYOPS_HPP
-#define SZ_MEMORYOPS_HPP
+#ifndef SZ_MEMORYOPS_HPP_QoZ
+#define SZ_MEMORYOPS_HPP_QoZ
 #include <cassert>
 #include <cstring>
 #include "QoZ/def.hpp"
@@ -53,4 +53,4 @@ namespace QoZ {
         compressed_data_pos += sizeof(T1);
     }
 }
-#endif //SZ_MEMORYOPS_HPP
+#endif //SZ_MEMORYOPS_HPP_QoZ

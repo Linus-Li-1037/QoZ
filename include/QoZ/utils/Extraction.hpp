@@ -1,6 +1,6 @@
 
-#ifndef SZ_EXTRACTION_HPP
-#define SZ_EXTRACTION_HPP
+#ifndef SZ_EXTRACTION_HPP_QoZ
+#define SZ_EXTRACTION_HPP_QoZ
 
 
 namespace QoZ {

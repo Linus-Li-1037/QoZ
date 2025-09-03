@@ -1,5 +1,5 @@
-#ifndef SZ3_FRONTEND_INTERFACE
-#define SZ3_FRONTEND_INTERFACE
+#ifndef SZ3_FRONTEND_INTERFACE_QoZ
+#define SZ3_FRONTEND_INTERFACE_QoZ
 /**
  * Frontend is the combination of Predictor and Quantizer
  * For compression, it takes the original data as input, and outputs integer values

@@ -2,8 +2,8 @@
 // Created by Kai Zhao on 7/27/21.
 //
 
-#ifndef SZ3_POLYREGRESSIONCOEFF_HPP
-#define SZ3_POLYREGRESSIONCOEFF_HPP
+#ifndef SZ3_POLYREGRESSIONCOEFF_HPP_QoZ
+#define SZ3_POLYREGRESSIONCOEFF_HPP_QoZ
 
 namespace QoZ {
 float COEFF_1D[]={

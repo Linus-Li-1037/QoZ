@@ -1,5 +1,5 @@
-#ifndef _SZ_ZERO_PREDICTOR_HPP
-#define _SZ_ZERO_PREDICTOR_HPP
+#ifndef _SZ_ZERO_PREDICTOR_HPP_QoZ
+#define _SZ_ZERO_PREDICTOR_HPP_QoZ
 
 #include "QoZ/def.hpp"
 #include "QoZ/predictor/Predictor.hpp"

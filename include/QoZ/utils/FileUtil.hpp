@@ -1,7 +1,7 @@
 
 
-#ifndef _SZ_FILE_UTIL
-#define _SZ_FILE_UTIL
+#ifndef _SZ_FILE_UTIL_QoZ
+#define _SZ_FILE_UTIL_QoZ
 
 #include <iostream>
 #include <fstream>

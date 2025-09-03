@@ -1,7 +1,7 @@
 
 
-#ifndef SZ3_PREFILTER_HPP
-#define SZ3_PREFILTER_HPP
+#ifndef SZ3_PREFILTER_HPP_QoZ
+#define SZ3_PREFILTER_HPP_QoZ
 
 #include "QoZ/preprocessor/PreProcessor.hpp"
 

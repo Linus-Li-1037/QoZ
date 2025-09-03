@@ -1,5 +1,5 @@
-#ifndef _SZ_HUFFMAN_ENCODER_HPP
-#define _SZ_HUFFMAN_ENCODER_HPP
+#ifndef _SZ_HUFFMAN_ENCODER_HPP_QoZ
+#define _SZ_HUFFMAN_ENCODER_HPP_QoZ
 
 #include "QoZ/def.hpp"
 #include "QoZ/encoder/Encoder.hpp"

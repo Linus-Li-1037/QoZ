@@ -1,5 +1,5 @@
-#ifndef _SZ_ENCODER_HPP
-#define _SZ_ENCODER_HPP
+#ifndef _SZ_ENCODER_HPP_QoZ
+#define _SZ_ENCODER_HPP_QoZ
 
 namespace QoZ {
     namespace concepts {

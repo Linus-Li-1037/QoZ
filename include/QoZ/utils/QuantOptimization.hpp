@@ -1,5 +1,5 @@
-#ifndef SZ_optimize_quant_intervals_hpp
-#define SZ_optimize_quant_intervals_hpp
+#ifndef SZ_optimize_quant_intervals_hpp_QoZ
+#define SZ_optimize_quant_intervals_hpp_QoZ
 
 #include <vector>
 #include "QoZ/predictor/MetaLorenzoPredictor.hpp"

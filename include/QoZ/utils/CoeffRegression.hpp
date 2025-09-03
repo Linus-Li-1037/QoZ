@@ -3,8 +3,8 @@
 
 //#include <stdlib.h>
 
-#ifndef SZ_MATRIX_OPERATION_HPP
-#define SZ_MATRIX_OPERATION_HPP
+#ifndef SZ_MATRIX_OPERATION_HPP_QoZ
+#define SZ_MATRIX_OPERATION_HPP_QoZ
 #include <iostream>
 #include<cstdio>
 namespace QoZ {

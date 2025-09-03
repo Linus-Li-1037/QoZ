@@ -1,5 +1,5 @@
-#ifndef SZ3_FRONTEND
-#define SZ3_FRONTEND
+#ifndef SZ3_FRONTEND_QoZ
+#define SZ3_FRONTEND_QoZ
 /**
  * This module is the implementation of general frontend in SZ3
  */

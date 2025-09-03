@@ -1,5 +1,5 @@
-#ifndef SZ_ArithmeticEncoder_HPP
-#define SZ_ArithmeticEncoder_HPP
+#ifndef SZ_ArithmeticEncoder_HPP_QoZ
+#define SZ_ArithmeticEncoder_HPP_QoZ
 
 #include "QoZ/utils/ByteUtil.hpp"
 #include "QoZ/encoder/Encoder.hpp"
@@ -704,4 +704,3 @@ namespace QoZ {
 
 }
 #endif /* ----- #ifndef _ArithmeticEncoder_H  ----- */
-

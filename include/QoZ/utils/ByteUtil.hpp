@@ -1,6 +1,6 @@
 
-#ifndef SZ3_BYTEUTIL_HPP
-#define SZ3_BYTEUTIL_HPP
+#ifndef SZ3_BYTEUTIL_HPP_QoZ
+#define SZ3_BYTEUTIL_HPP_QoZ
 
 #include "QoZ/def.hpp"
 #include <cstring>
@@ -230,4 +230,4 @@ namespace QoZ {
     }
 
 };
-#endif //SZ3_BYTEUTIL_HPP
+#endif //SZ3_BYTEUTIL_HPP_QoZ

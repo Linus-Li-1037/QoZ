@@ -1,6 +1,6 @@
 
-#ifndef SZ3_TRANSPOSE_H
-#define SZ3_TRANSPOSE_H
+#ifndef SZ3_TRANSPOSE_H_QoZ
+#define SZ3_TRANSPOSE_H_QoZ
 
 #include "QoZ/preprocessor/PreProcessor.hpp"
 
@@ -77,4 +77,4 @@ namespace QoZ {
 
     };
 }
-#endif //SZ3_TRANSPOSE_H
+#endif //SZ3_TRANSPOSE_H_QoZ

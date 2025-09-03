@@ -1,5 +1,5 @@
-#ifndef _DEF_HPP
-#define _DEF_HPP
+#ifndef _DEF_HPP_QoZ
+#define _DEF_HPP_QoZ
 
 #include <cmath>
 

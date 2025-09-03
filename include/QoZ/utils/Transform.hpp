@@ -1,7 +1,7 @@
 
 
-#ifndef SZ_TRANSFORM_HPP
-#define SZ_TRANSFORM_HPP
+#ifndef SZ_TRANSFORM_HPP_QoZ
+#define SZ_TRANSFORM_HPP_QoZ
 #include<cmath>
 namespace QoZ {
     template<class T>

@@ -1,5 +1,8 @@
 # QoZ 2.0 (HPEZ)
 
+## Note
+This repository is only for the evaluation of QPro with modifications and can not be indenpendtly installed.
+
 ## Introduction
 
 The second major version of QoZ: QoZ 2.0 (HPEZ), is based on both QoZ 1.1 and the paper: "High-performance Effective Scientific Error-bounded Lossy Compression with Auto-tuned Multi-component Interpolation". [ACM Paper Link](https://dl.acm.org/doi/abs/10.1145/3639259) [arXiv Paper Link](https://arxiv.org/abs/2311.12133) 

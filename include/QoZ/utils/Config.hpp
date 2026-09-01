@@ -5,6 +5,7 @@
 #include <iostream>
 #include <vector>
 #include <numeric>
+#include <array>
 #include "QoZ/def.hpp"
 #include "MemoryUtil.hpp"
 #include "QoZ/utils/inih/INIReader.h"
